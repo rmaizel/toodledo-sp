@@ -1,0 +1,11 @@
+{
+    "id": "toodledo-sp",
+    "name": "Toodledo Integration Plugin",
+    "version": "0.1.0",
+    "description": "Super Productivity plugin to sync with or import ToodleDo tasks.",
+    "manifestVersion": 1,
+    "minSupVersion": "14.0.0",
+    "author": "Ryan Maizel",
+    "homepage": "https://github.com/rmaizel/toodledo-sp",
+    "icon": "icon.svg"
+}
